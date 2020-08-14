@@ -6,7 +6,7 @@ I am currently looking for a full-time opportunity in Software Engineering/ Data
 
 You can reach out to me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-phanikumaratyam-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phanikumaratyam) [![Twitter](https://img.shields.io/badge/Twitter-thephaniguy-%231DA1F2?style=flat-square&logo=twitter)](https://twitter.com/thephaniguy/) [![Website](https://img.shields.io/badge/website-phanikumaratyam.me-%23FF7139?style=flat-square&logo=firefox-browser)](http://www.phanikumaratyam.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phanikumaratyam-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phanikumaratyam) [![Website](https://img.shields.io/badge/website-phanikumaratyam.me-%23FF7139?style=flat-square&logo=firefox-browser)](http://www.phanikumaratyam.me) [![Twitter](https://img.shields.io/badge/Twitter-thephaniguy-%231DA1F2?style=flat-square&logo=twitter)](https://twitter.com/thephaniguy/)
 
 <!-- 
 
