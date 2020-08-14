@@ -4,7 +4,7 @@ I am Phani Kumar Atyam. I am currently pursuing my Masters degree in Computer Sc
 
 I am currently looking for a full-time opportunity in Software Engineering/ Data Science where I could be able to put all my skills and experience in action and thereby help in improving the business of the company. 
 
-You can reach me out at:
+You can reach out to me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phanikumaratyam-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phanikumaratyam) [![Twitter](https://img.shields.io/badge/Twitter-thephaniguy-%231DA1F2?style=flat-square&logo=twitter)](https://twitter.com/thephaniguy/) [![Website](https://img.shields.io/badge/website-phanikumaratyam.me-%23FF7139?style=flat-square&logo=firefox-browser)](http://www.phanikumaratyam.me)
 
