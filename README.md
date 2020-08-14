@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Phani Kumar Atyam. I am currently pursuing my Masters degree in Computer Science and Engineering at The Ohio State University.
+I am Phani Kumar Atyam. I am pursuing my Masters degree in Computer Science and Engineering at The Ohio State University and working as a Graduate Reasearch Associate at the Center for Urban and Regional Analytics at the OSU.
 
 I am currently looking for a full-time opportunity in Software Engineering/ Data Science where I could be able to put all my skills and experience in action and thereby help in improving the business of the company. 
 
